@@ -1,13 +1,15 @@
 // Styles
-// var taskList = {
-// 	width: 220,
-// 	float: 'left',
-// 	marginRight: 25,
-// 	padding: 25,
-// 	border: '1px solid #ccc',
-// 	borderRadius: 5
+// var styles = {
+// 	taskList: {	
+// 		width: 220,
+// 		float: 'left',
+// 		marginRight: 25,
+// 		padding: 25,
+// 		border: '1px solid #ccc',
+// 		borderRadius: 5
+// 	}
 // }
-// add to a component with style={taskList} 
+// add to a component with style={styles.taskList} 
 
 // Components
 var Task = React.createClass({
