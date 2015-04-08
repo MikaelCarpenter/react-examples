@@ -1,0 +1,17 @@
+{
+  "name": "mailbox",
+  "version": "0.0.1",
+  "main": "app.js",
+  "web": "node app.js",
+  "scripts": {
+   "start": "node app.js",
+   "test": "foreman start"
+  },
+  "dependencies": {
+    "express": "^4",
+    "body-parser": "^1"
+  },
+  "engines": {
+    "node": "0.10.35"
+  }
+}
