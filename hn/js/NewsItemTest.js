@@ -1,6 +1,7 @@
 var $ = require('jquery');
 var React = require('react');
 var NewsItem = require('./NewsItem');
+var styles = require('../css/Styles');
 
 $.ajax({
 	url: '/json/items.json'
