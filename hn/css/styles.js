@@ -64,6 +64,22 @@ var Styles = {
 	newsHeaderLogin: {
 		marginRight: 5,
 	},
+	newsList: {
+		background: '#f6f6ef',
+		marginLeft: 'auto',
+		marginRight: 'auto',
+		width: '85%',
+	},
+	newsListMore: {
+		marginLeft: 40,
+		marginTop: 10,
+		paddingBottom: 10,
+	},
+	newsListMoreLink: {
+		color: 'black',
+		fontSize: '10pt',
+		textDecoration: 'none',
+	},
 }
 
 module.exports = Styles;
